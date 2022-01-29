@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infomail4575
+- 👋 Hi, I’m @Lalit~Saud
 - 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning Python & Django Framework
 - 💞️ I’m looking to collaborate on Web development
